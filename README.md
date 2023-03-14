@@ -47,12 +47,4 @@
     </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-
-<a href="https://github.com/VishalSharma8910/github-readme-stats"><img alt="Vishal sharma Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalSharma8910&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
-
-<br/>
-
 <p align="center">Show ❤️ by starring and forking repositories if you find it's good and useful! </p>
