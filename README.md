@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://mrvishalsharma.github.io/my-portfolio/)**
 
-- 📫 How to reach me **mrvishalsharma8@gmail.com**
+- 📫 How to reach me **mrvishalsharma27@gmail.com**
 
 
 ## 🚀 Languages and Tools:
@@ -42,8 +42,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/mrvishalsharma/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishal Sharma streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mrvishalsharma&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/VishalSharma8910/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishal Sharma streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalSharma8910&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -51,7 +51,7 @@
 
   <br/>
 
-<a href="https://github.com/mrvishalsharma/github-readme-stats"><img alt="Vishal sharma Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvishalsharma&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+<a href="https://github.com/VishalSharma8910/github-readme-stats"><img alt="Vishal sharma Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalSharma8910&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> 
 
   <br/>
 
@@ -59,11 +59,11 @@
 
 <br/>
 
-<a href="https://github.com/mrvishalsharma/github-readme-stats"><img alt="Vishal Sharma Github Stats" src="https://github-readme-stats.vercel.app/api?username=mrvishalsharma&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/VishalSharma8910/github-readme-stats"><img alt="Vishal Sharma Github Stats" src="https://github-readme-stats.vercel.app/api?username=VishalSharma8910&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 
-<a href="https://github.com/mrvishalsharma/github-readme-activity-graph"><img alt="Vishal Sharma Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrvishalsharma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/VishalSharma8910/github-readme-activity-graph"><img alt="Vishal Sharma Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=VishalSharma8910&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p align="center">Show ❤️ by starring and forking repositories if you find it's good and useful! </p>
 <p align="center"><img src="https://camo.githubusercontent.com/7da528df692aea867b90800324488b633f5a8328d74c05a02c26483c0a267799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468616e6b73253230666f722532307669736974696e672d212d3145414544422e737667" alt="Thanks!" data-canonical-src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" style="max-width:100%;"></p>
