@@ -6,7 +6,7 @@
 
 <p align="center">
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/VishalSharma8910) [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=mrvishalsharma.profileviews-badge)](https://github.com/VishalSharma8910) 
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/VishalSharma8910)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/vishalkr-sharma/) 
 [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:mrvishalsharma27@gmail.com)
 
